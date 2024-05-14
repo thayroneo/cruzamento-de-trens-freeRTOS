@@ -5,7 +5,7 @@ O projeto consiste na criação de um sistema que simule a interação entre uma
 
 Para evitar colisões, sempre que um trem se aproximar, uma barreira deve ser acionada e todos os veículos devem parar. A coordenação do acesso ao cruzamento é vital e será gerenciada utilizando semáforos. Serão aplicados conceitos de sincronização e exclusão mútua para garantir o funcionamento seguro e ordenado do sistema.
 
-![Simulação](data/img/simu.png)
+![Simulação](src/img/simu.png)
 
 ## Tecnologia utilizada
 
